@@ -41,7 +41,7 @@ $config = [
         ],
         'db' => $db,
         
-        'urlManager' => [
+       /*  'urlManager' => [
             
          
              
@@ -51,7 +51,7 @@ $config = [
                 '/' => 'site/index',
                 '<action>'=>'site/<action>',
             ],
-        ],
+        ], */
         
     ],
     'params' => $params,
